@@ -1,2 +1,2 @@
 # ESI Emergency
-URL: https://lezgend.github.io/Emergency-App/
+URL: https://lezgend.github.io/EmergencyApp/
